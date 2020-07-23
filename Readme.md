@@ -10,3 +10,6 @@
 
 # Tutorial 2
 ![Recursion types](snapshots/Types_of_recursion_problems.png?raw=true "Title")
+
+# Tutorial 3
+![Recursion types](snapshots/Hypothesis_induction.png?raw=true "Title")
