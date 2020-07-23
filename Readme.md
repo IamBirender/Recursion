@@ -1,4 +1,4 @@
-# In this tutorial we will be covering the flow:
+# Tutorial 1
 1. make input smaller
     we take some decision which makes the input smaller as a consequence. So the focus should be on taking the decision rather than making the input small
 2. Recursion - Decision tree
@@ -7,3 +7,6 @@
     Once we have decided the recursive tree --> writing the code will be a cake walk.
 4. 2 steps to solve any recursion problem
     Write the recursive tree and write the code.
+
+# Tutorial 2
+![Recursion types](snapshots/Types_of_recursion_problems.png?raw=true "Title")
