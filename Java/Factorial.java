@@ -1,6 +1,15 @@
 package Java;
+/**
+ * @author Pallavi
+ */
 public class Factorial
 {
+
+    /**
+     * 
+     * @param num
+     * @return
+     */
     public static int factorial(int num)
     {
         if(num == 1)
