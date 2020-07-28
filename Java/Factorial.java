@@ -6,7 +6,7 @@ public class Factorial
 {
 
     /**
-     * 
+     * Find factorial of a number
      * @param num
      * @return
      */
