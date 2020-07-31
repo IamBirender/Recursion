@@ -13,3 +13,6 @@
 
 # Tutorial 3
 ![Recursion types](snapshots/Hypothesis_induction.png?raw=true "Title")
+
+# Tutorial 11
+![Recursion types](snapshots/input_output.png?raw=true "Title")
