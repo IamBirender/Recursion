@@ -6,6 +6,7 @@ class perm_with_case_change(object):
     def _get_permutations(self):
         self.__hypothesis(self.string, "")
 
+    # 
     def __hypothesis(self, input, output):
         if len(input) == 0:
             self.result.append(output)
