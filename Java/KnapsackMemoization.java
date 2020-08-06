@@ -16,12 +16,12 @@ public class KnapsackMemoization {
        }
         if(weight[N-1] > capacity)
         {
-            return knapsack(weight, value, capacity, N-1,mem);
+            return mem[N][capacity]= knapsack(weight, value, capacity, N-1,mem);
         }
 
         else
         {
-            return Math.max(value[N-1]+knapsack(weight, value, capacity - weight[N-1], N-1,mem), knapsack(weight, value, capacity, N-1,mem));
+            return mem[N][capacity] = Math.max(value[N-1]+knapsack(weight, value, capacity - weight[N-1], N-1,mem), knapsack(weight, value, capacity, N-1,mem));
             
         }
        
