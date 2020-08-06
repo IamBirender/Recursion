@@ -1,4 +1,7 @@
 package Java;
+/**
+ * return the maximum profit obtained in the knapsack with given capacity 
+ */
 public class Knapsack_01
 {
     static int res = 0;
